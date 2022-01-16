@@ -1,5 +1,5 @@
 
-##DryCleaner database is created. 
+## DryCleaner database is created. 
   There are 4 tables. While the 3 tables are related to each other, the log table is independent.
   
   ## The Diagram of database
